@@ -1,0 +1,19 @@
+{
+  "name": "unisportsudjs",
+  "version": "1.0.0",
+  "description": "A register bot for \"RWTH Hochschulsport\"-courses",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jannikbecher/unisportSUDjs.git"
+  },
+  "author": "Jannik Becher",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jannikbecher/unisportSUDjs/issues"
+  },
+  "homepage": "https://github.com/jannikbecher/unisportSUDjs#readme"
+}
